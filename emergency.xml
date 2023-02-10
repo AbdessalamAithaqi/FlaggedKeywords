@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-02-07 21:45:37" modified="2023-02-07 22:03:05" name="list">
+  <keyword literal="true" whole="false">Emergency</keyword>
+  <keyword literal="true" whole="false">Hurricane</keyword>
+  <keyword literal="true" whole="false">Tornado</keyword>
+  <keyword literal="true" whole="false">Twister</keyword>
+  <keyword literal="true" whole="false">Tsunami</keyword>
+  <keyword literal="true" whole="false">Earthquake</keyword>
+  <keyword literal="true" whole="false">Tremor</keyword>
+  <keyword literal="true" whole="false">Flood</keyword>
+  <keyword literal="true" whole="false">Storm</keyword>
+  <keyword literal="true" whole="false">Crest</keyword>
+  <keyword literal="true" whole="false">Temblor</keyword>
+  <keyword literal="true" whole="false">Extreme</keyword>
+  <keyword literal="true" whole="false">weather</keyword>
+  <keyword literal="true" whole="false">Forest</keyword>
+  <keyword literal="true" whole="false">fire</keyword>
+  <keyword literal="true" whole="false">Brush</keyword>
+  <keyword literal="true" whole="false">fire</keyword>
+  <keyword literal="true" whole="false">Ice</keyword>
+  <keyword literal="true" whole="false">Stranded/Stuck</keyword>
+  <keyword literal="true" whole="false">Help</keyword>
+  <keyword literal="true" whole="false">Hail</keyword>
+  <keyword literal="true" whole="false">Wildfire</keyword>
+  <keyword literal="true" whole="false">Tsunami</keyword>
+  <keyword literal="true" whole="false">Warning</keyword>
+  <keyword literal="true" whole="false">Center</keyword>
+  <keyword literal="true" whole="false">Magnitude</keyword>
+  <keyword literal="true" whole="false">Avalanche</keyword>
+  <keyword literal="true" whole="false">Typhoon</keyword>
+  <keyword literal="true" whole="false">Shelter-in-place</keyword>
+  <keyword literal="true" whole="false">Disaster</keyword>
+  <keyword literal="true" whole="false">Snow</keyword>
+  <keyword literal="true" whole="false">Blizzard</keyword>
+  <keyword literal="true" whole="false">Sleet</keyword>
+  <keyword literal="true" whole="false">Mud slide</keyword>
+  <keyword literal="true" whole="false">Mudslide</keyword>
+  <keyword literal="true" whole="false">Erosion</keyword>
+  <keyword literal="true" whole="false">Power outage</keyword>
+  <keyword literal="true" whole="false">Brown out</keyword>
+  <keyword literal="true" whole="false">Warning</keyword>
+  <keyword literal="true" whole="false">Watch</keyword>
+  <keyword literal="true" whole="false">Lightening</keyword>
+  <keyword literal="true" whole="false">Aid</keyword>
+  <keyword literal="true" whole="false">Relief</keyword>
+  <keyword literal="true" whole="false">Closure</keyword>
+  <keyword literal="true" whole="false">Interstate</keyword>
+  <keyword literal="true" whole="false">Burst</keyword>
+  <keyword literal="true" whole="false">Emergency</keyword>
+  <keyword literal="true" whole="false">Broadcast</keyword>
+  <keyword literal="true" whole="false">System</keyword>
+  <keyword literal="true" whole="false">Cyber</keyword>
+  <keyword literal="true" whole="false">Security</keyword>
+ </keyword_list>
+</keyword_lists>

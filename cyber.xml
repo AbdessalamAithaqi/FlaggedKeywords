@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-02-07 21:45:37" modified="2023-02-07 22:03:05" name="list">
+  <keyword literal="true" whole="false">Cyber security</keyword>
+  <keyword literal="true" whole="false">Botnet</keyword>
+  <keyword literal="true" whole="false">DDOS</keyword>
+  <keyword literal="true" whole="false">dedicated denial of service</keyword>
+  <keyword literal="true" whole="false">Denial of service</keyword>
+  <keyword literal="true" whole="false">Malware</keyword>
+  <keyword literal="true" whole="false">Virus</keyword>
+  <keyword literal="true" whole="false">Trojan</keyword>
+  <keyword literal="true" whole="false">Keylogger</keyword>
+  <keyword literal="true" whole="false">Cyber</keyword>
+  <keyword literal="true" whole="false">Command</keyword>
+  <keyword literal="true" whole="false">Spammer</keyword>
+  <keyword literal="true" whole="false">Spam</keyword>
+  <keyword literal="true" whole="false">Phishing</keyword>
+  <keyword literal="true" whole="false">Rootkit</keyword>
+  <keyword literal="true" whole="false">Phreaking</keyword>
+  <keyword literal="true" whole="false">Brute forcing</keyword>
+  <keyword literal="true" whole="false">sql injection</keyword>
+  <keyword literal="true" whole="false">Cyber attack</keyword>
+  <keyword literal="true" whole="false">Cyber terror</keyword>
+  <keyword literal="true" whole="false">Hacker</keyword>
+  <keyword literal="true" whole="false">China</keyword>
+  <keyword literal="true" whole="false">Conficker</keyword>
+  <keyword literal="true" whole="false">Worm</keyword>
+  <keyword literal="true" whole="false">Scammers</keyword>
+  <keyword literal="true" whole="false">Social media</keyword>
+ </keyword_list>
+</keyword_lists>

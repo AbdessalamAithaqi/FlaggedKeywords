@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<keyword_lists>
+ <keyword_list created="2023-02-07 21:45:37" modified="2023-02-07 22:03:05" name="list">
+  <keyword literal="true" whole="false">Hazmat</keyword>
+  <keyword literal="true" whole="false"> Nuclear</keyword>
+  <keyword literal="true" whole="false"> Chemical</keyword>
+  <keyword literal="true" whole="false"> Spill</keyword>
+  <keyword literal="true" whole="false"> Suspicious package</keyword>
+  <keyword literal="true" whole="false"> suspicious device</keyword>
+  <keyword literal="true" whole="false"> Toxic</keyword>
+  <keyword literal="true" whole="false"> National</keyword>
+  <keyword literal="true" whole="false"> laboratory</keyword>
+  <keyword literal="true" whole="false"> Nuclear facility</keyword>
+  <keyword literal="true" whole="false"> Nuclear threat</keyword>
+  <keyword literal="true" whole="false"> Cloud</keyword>
+  <keyword literal="true" whole="false"> Plume</keyword>
+  <keyword literal="true" whole="false"> Radiation</keyword>
+  <keyword literal="true" whole="false"> Radioactive</keyword>
+  <keyword literal="true" whole="false"> Leak</keyword>
+  <keyword literal="true" whole="false"> Biological infection</keyword>
+  <keyword literal="true" whole="false"> Chemical</keyword>
+  <keyword literal="true" whole="false"> Chemical burn</keyword>
+  <keyword literal="true" whole="false"> Biological Epidemic</keyword>
+  <keyword literal="true" whole="false"> Hazardous</keyword>
+  <keyword literal="true" whole="false"> Hazardous material</keyword>
+  <keyword literal="true" whole="false"> incident</keyword>
+  <keyword literal="true" whole="false"> Industrial spill</keyword>
+  <keyword literal="true" whole="false"> Infection Powder</keyword>
+  <keyword literal="true" whole="false"> Gas</keyword>
+  <keyword literal="true" whole="false"> Spillover</keyword>
+  <keyword literal="true" whole="false"> Anthrax</keyword>
+  <keyword literal="true" whole="false"> Blister agent</keyword>
+  <keyword literal="true" whole="false"> Exposure</keyword>
+  <keyword literal="true" whole="false"> Burn</keyword>
+  <keyword literal="true" whole="false"> Nerve agent</keyword>
+  <keyword literal="true" whole="false"> Ricin</keyword>
+  <keyword literal="true" whole="false"> Sarin</keyword>
+  <keyword literal="true" whole="false"> North Korea</keyword>
+  <keyword literal="true" whole="false"> Health Concern</keyword>
+  <keyword literal="true" whole="false"> H1N1</keyword>
+ </keyword_list>
+</keyword_lists>
